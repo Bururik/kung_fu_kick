@@ -1,9 +1,14 @@
 #Kung_fu_kick 
-##WELCOME!!!
+##WELCOME!!!   
+
 ##First Argument __the enemy__   
+
 ##Second Argument __distance__   
+
 ## Third Argument __between__   
-__*NOTE*__ If a fourth argument is missing the output will default to an 'L' situation.
+
+__*NOTE*__ If a fourth argument is missing the output will default to an 'L' situation.   
+
 ###It is worth noting that this module has error handlers in case of unexpected inputs...and remember __*Don't be a Script Kiddie!*__
 
 
