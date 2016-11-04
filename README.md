@@ -5,19 +5,19 @@
   -  This module has four arguments that are essential to the functionallity of the module.       
 
 
-##First Argument __the enemy__   
+##First Argument *"The Enemy"*   
 
 - This argument can be a string or integer and denotes the "character" that will be kung fu kicked by our module.
 
-##Second Argument __distance__   
+##Second Argument *"Distance"*   
 
 - This argument can also be a str or int and denotes "how far" our "character" will be kicked back.
 
-## Third Argument __between__   
+## Third Argument *"Between"*   
 
 - This argument can *ONLY* be be a string so be careful, it denotes what to put in between the 'off screen kicker' and the kicked 'character'.   
 
-##Fourth Argument __direction__   
+##Fourth Argument *"Direction"*   
 
 - This argument (as before) can *ONLY* be a string and denotes which direction the 'character' was kicked to.
  - This argument is unique as it must be stated by either the L or R characters.
