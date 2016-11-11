@@ -1,9 +1,9 @@
 {
-<<<<<<< HEAD
+
   "name": "kung_fu_kick",
-=======
+
   "name": "@bururik/kung_fu_kick",
->>>>>>> 692a2c82eb4d850147e7aba5b3e36acca1d4502a
+
   "version": "1.0.0",
   "description": "This is a 'Left Pad' replacement just in case...",
   "main": "kung_fu_kick.js",
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
-    "url": "https://github.com/Bururik/kung_fu_kick.git"
-=======
+
+    "url": "https://github.com/Bururik/kung_fu_kick.git",
+
     "url": "git+https://github.com/Bururik/kung_fu_kick.git"
->>>>>>> 692a2c82eb4d850147e7aba5b3e36acca1d4502a
+
   },
   "author": "Leonardo I Escandon Jackson",
   "license": "ISC",
