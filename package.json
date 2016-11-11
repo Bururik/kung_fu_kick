@@ -1,0 +1,19 @@
+{
+  "name": "kung_fu_kick",
+  "version": "1.0.0",
+  "description": "This is a 'Left Pad' replacement just in case...",
+  "main": "kung_fu_kick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bururik/kung_fu_kick.git"
+  },
+  "author": "Leonardo I Escandon Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bururik/kung_fu_kick/issues"
+  },
+  "homepage": "https://github.com/Bururik/kung_fu_kick#readme"
+}
